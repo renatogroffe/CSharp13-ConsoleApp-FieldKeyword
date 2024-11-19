@@ -3,7 +3,7 @@
 public class Temperatura
 {
     public double Fahrenheit
-    { 
+    {
         get;
         set
         {
